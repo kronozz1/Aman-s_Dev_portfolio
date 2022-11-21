@@ -12,26 +12,13 @@ A simple portfolio template for developer/designers built with React.
 - Multi-Page Layout
 - Contact Form With EmailJs
 - React-Bootstrap
-- Edit Content From One Place
+- Full of creativity 😉
 
-### Setup
-
-Get the code
-
-<pre>git clone https://github.com/kronozz1/Aman-s_Dev_portfolio.git</pre>
- 
-Install required dependencies
-
-<pre>yarn install</pre>
-
-
-Start the server
-
-<pre>yarn start</pre>
+### Developed by Aman Faridi 🤓
 
 ### More
 
-Modify pages content in  `src/content_option.js`.
+
 
 ### Thanks
 
